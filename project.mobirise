@@ -27,7 +27,7 @@
       ]
     },
     "versionFirst": "4.4.1",
-    "uniqCompNum": 17,
+    "uniqCompNum": 19,
     "versionPublish": "4.4.1"
   },
   "pages": {
@@ -51,7 +51,7 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#ffffff",
-            "fontSize": "1",
+            "fontSize": "0.8",
             "fontName": {
               "name": "Open Sans",
               "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
@@ -70,7 +70,7 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-size": "24px"
+              "font-size": "22px"
             },
             ".navbar-toggler": {
               "color": "#00a885"
@@ -84,10 +84,10 @@
               "font-family": "'Open Sans', sans-serif"
             },
             ".link": {
-              "font-size": "1rem"
+              "font-size": "0.8rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.083rem"
+              "font-size": "0.866rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -132,7 +132,7 @@
           },
           "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Gabriel Manoel<br>Consultoria e desenvolvimento de projetos<br></a>",
           "_name": "ext.menu",
-          "_anchor": "ext_menu-0"
+          "_anchor": "ext_menu-i"
         },
         {
           "_params": {
