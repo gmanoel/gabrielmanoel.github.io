@@ -426,15 +426,15 @@ h6,
   font-size: 22px;
 }
 #ext_menu-i .navbar-toggler {
-  color: #00a885;
+  color: #ffffff;
 }
 #ext_menu-i .close-icon::before,
 #ext_menu-i .close-icon::after {
-  background-color: #00a885;
+  background-color: #ffffff;
 }
 #ext_menu-i .link,
 #ext_menu-i .dropdown-item {
-  color: #00a885;
+  color: #ffffff;
   font-family: 'Open Sans', sans-serif;
 }
 #ext_menu-i .link {
@@ -452,22 +452,22 @@ h6,
 }
 #ext_menu-i .link[aria-expanded="true"],
 #ext_menu-i .dropdown-menu {
-  background: #e6e6e6;
+  background: #00755d;
 }
 #ext_menu-i .nav-dropdown-sm .link:focus,
 #ext_menu-i .nav-dropdown-sm .link:hover,
 #ext_menu-i .nav-dropdown-sm .dropdown-item:focus,
 #ext_menu-i .nav-dropdown-sm .dropdown-item:hover {
-  background: #f7f7f7!important;
+  background: #009979!important;
 }
 #ext_menu-i .navbar,
 #ext_menu-i .nav-dropdown-sm,
 #ext_menu-i .nav-dropdown-sm .link[aria-expanded="true"],
 #ext_menu-i .nav-dropdown-sm .dropdown-menu {
-  background: #ffffff;
+  background: #00a885;
 }
 #ext_menu-i .bg-color.transparent .link {
-  color: #00a885;
+  color: #ffffff;
   transition: none;
 }
 #ext_menu-i .bg-color.transparent.opened .link {

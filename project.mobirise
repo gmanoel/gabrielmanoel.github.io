@@ -50,14 +50,14 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#ffffff",
+            "bgColor": "#00a885",
             "fontSize": "0.8",
             "fontName": {
               "name": "Open Sans",
               "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
               "css": "'Open Sans', sans-serif"
             },
-            "fontColor": "#00a885",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-4\">CURRICULUM VITAE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider3-f\">&nbsp;PROJETOS DESENVOLVIDOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-9\">CONTATO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
@@ -73,13 +73,13 @@
               "font-size": "22px"
             },
             ".navbar-toggler": {
-              "color": "#00a885"
+              "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#00a885"
+              "background-color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#00a885",
+              "color": "#ffffff",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
               "font-family": "'Open Sans', sans-serif"
             },
@@ -93,16 +93,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#00755d"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#009979!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#00a885"
             },
             ".bg-color.transparent .link": {
-              "color": "#00a885",
+              "color": "#ffffff",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -130,7 +130,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Gabriel Manoel<br>Consultoria e desenvolvimento de projetos<br></a>",
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Gabriel Manoel<br>Consultoria e desenvolvimento de projetos<br></a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-i"
         },
