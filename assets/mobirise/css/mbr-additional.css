@@ -521,6 +521,9 @@ h6,
   font-size: 24px;
 }
 
+
+
+
 #ext_menu-j .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -586,4 +589,39 @@ h6,
 }
 #msg-box5-l H3 {
   font-size: 46px;
+  color: #00a885;
+}
+#msg-box5-l P {
+  text-align: left;
+  font-family: 'Lora', serif;
+  font-size: 18px;
+}
+#msg-box5-l .btn {
+  font-size: 14px;
+}
+#msg-box5-n DIV {
+  font-size: 24px;
+}
+#msg-box5-n H3 {
+  font-size: 24px;
+  text-align: left;
+  color: #00a885;
+}
+#msg-box5-n P {
+  text-align: left;
+  font-family: 'Lora', serif;
+  font-size: 18px;
+}
+#msg-box5-n .btn {
+  font-size: 14px;
+}
+#msg-box4-m H3 {
+  color: #00a885;
+}
+#msg-box4-m P {
+  font-family: 'Lora', serif;
+  font-size: 18px;
+}
+#msg-box4-m .btn {
+  font-size: 14px;
 }
