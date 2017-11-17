@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-11-12_2102",
-    "currentPage": "Projetos.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -27,7 +27,7 @@
       ]
     },
     "versionFirst": "4.4.1",
-    "uniqCompNum": 24,
+    "uniqCompNum": 26,
     "versionPublish": "4.4.1"
   },
   "pages": {
@@ -51,7 +51,7 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#00a885",
-            "fontSize": "0.8",
+            "fontSize": "1",
             "fontName": {
               "name": "Open Sans",
               "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
@@ -60,7 +60,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-4\">CURRICULUM VITAE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Projetos.html\">&nbsp;PROJETOS DESENVOLVIDOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-9\">CONTATO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-4\">CURRICULUM VITAE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Projetos.html\">&nbsp;PROJETOS&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-9\">CONTATO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -84,10 +84,10 @@
               "font-family": "'Open Sans', sans-serif"
             },
             ".link": {
-              "font-size": "0.8rem"
+              "font-size": "1rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.866rem"
+              "font-size": "1.083rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -319,47 +319,47 @@
             "timeout": "5",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/yangyong-2000x1111.png",
+                "image": "@PROJECT_PATH@/assets/images/vga-1-475x553.png",
                 "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "Outro projeto",
+                "title": "DC-VGA",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "texto sobre ele.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"Projetos.html\" data-toolbar=\"-mbrBtnMove\">Saiba+</a> "
+                "text": "Amplificador com ganho variável controlado por largura de pulso.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Projetos.html\" data-toolbar=\"-mbrBtnMove\">Saiba+</a> "
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/graber-1-1136x1304.png",
+                "image": "@PROJECT_PATH@/assets/images/prusai3-2-1080x810.jpg",
                 "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "Impressora 3D Graber",
+                "title": "Impressora Impressora Prusa i3",
                 "overlay": true,
                 "contentAlign": "right",
-                "text": "Primeira impressora 3D construída no Laboratório de Montagem Mecatrônica da UFSC em 2014. Estrutura da Graber i3 modificada para corte em MDF de 6 mm.",
+                "text": "",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"Projetos.html\" data-toolbar=\"-mbrBtnMove\">Saiba+</a> ",
                 "overlayOpacity": "0.5"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/bridge.jpg",
+                "image": "@PROJECT_PATH@/assets/images/tcc-1-821x743.png",
                 "active": true,
-                "showButtons": false,
+                "showButtons": true,
                 "showText": true,
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "Projeto 3",
+                "title": "TCC",
                 "overlay": true,
                 "contentAlign": "left",
-                "text": "texto...",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "text": "SISTEMA CNC DE POSICIONAMENTO APLICADO À CARACTERIZACÃO DE ACOPLAMENTO INDUTIVO",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">+Projetos</a> "
               }
             ]
           },
@@ -368,7 +368,13 @@
             "Theme"
           ],
           "_name": "slider3",
-          "_anchor": "slider3-f"
+          "_anchor": "slider3-f",
+          "_styles": {
+            "H2": {
+              "font-size": "48px",
+              "text-align": "left"
+            }
+          }
         },
         {
           "_params": {
@@ -462,7 +468,7 @@
     "Projetos.html": {
       "settings": {
         "meta_descr": "",
-        "title": "Projetos desenvolvidos",
+        "title": "Projetos",
         "order": 1
       },
       "components": [
@@ -476,7 +482,7 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#00a885",
-            "fontSize": "0.8",
+            "fontSize": "1",
             "fontName": {
               "name": "Open Sans",
               "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
@@ -485,7 +491,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-4\">CURRICULUM VITAE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Projetos.html\">&nbsp;PROJETOS DESENVOLVIDOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-9\">CONTATO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-4\">CURRICULUM VITAE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Projetos.html\">&nbsp;PROJETOS&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-9\">CONTATO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -604,7 +610,7 @@
             }
           },
           "title": "Construção da Impressora 3D<br>Prusa i3",
-          "text": "Impressora 3D open-source construída com algumas peças impressas e estrutura principal em MDF fresado. Utiliza sistema Bowden para extrudar o filamento de 1,75 mm, permitindo maior velocidade de impressão.",
+          "text": "Impressora 3D open-source construída com peças impressas e estrutura principal em MDF fresado. Utiliza sistema Bowden para extrudar o filamento de 1,75 mm, permitindo maior velocidade de impressão.",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://reprap.org/wiki/Prusa_i3\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbrib-link mbr-iconfont mbr-iconfont-btn\"></span>Link para o projeto</a>",
           "_tags": [
             "Theme"
@@ -632,7 +638,7 @@
             "showTitle": true,
             "showText": true,
             "showButtons": true,
-            "inverse": false,
+            "inverse": true,
             "imageSize": 50,
             "paddingTop": "1",
             "paddingBottom": "1",
@@ -672,7 +678,7 @@
           },
           "title": "SISTEMA CNC DE POSICIONAMENTO APLICADO À CARACTERIZACÃO DE ACOPLAMENTO INDUTIVO",
           "text": "Desenvolvido no Trabalho de Fim de Curso de Engenharia Eletrônica da UFSC, o sistema permitiu a automação das medidas de um circuito integrado que realiza a transmissão de energia sem fio a um sensor implantável. A figura ao lado apresenta a bancada de testes utilizada e as linhas pontilhadas apresentam a máquina CNC posicionadora construída especificamente para esta aplicação. O sistema mediu a eficiência do acoplamento indutivo em diferentes posições, permitindo ainda o uso de um substrato que simula os tecidos e músculos humanos.&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"assets/files/TCC_Gabriel_Manoel.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbrib-file mbr-iconfont mbr-iconfont-btn\"></span>Baixar TCC</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"assets/files/TCC_Gabriel_Manoel.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbrib-file mbr-iconfont mbr-iconfont-btn\"></span>Baixar TCC</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"assets/files/TCC_Gabriel_Manoel.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-layers mbr-iconfont mbr-iconfont-btn\"></span>Slides</a>",
           "_tags": [
             "Theme"
           ],
@@ -697,6 +703,77 @@
               "font-size": "14px"
             }
           }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/vga-475x553.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Amplificador com ganho variável controlado por largura de pulso (DC-VGA, duty-cycle v<i>ariable gain amplifier </i>)&nbsp;",
+          "text": "Como bolsista de iniciação científica no <a href=\"http://lrf.ufsc.br/\" target=\"_blank\">LRF</a>&nbsp;auxiliei na verificação do circuito de um amplificador controlado por largura de pulso baseado no efeito super-regenerativo. O circuito fundamental foi construído com componentes discretos e uma dissertação de mestrado o integrou em um chip na tecnologia de 180 nm CMOS. Com as boas características de rejeição à sinais de modo comum, o mesmo foi utilizado para amplificar sinais de eletrocardiograma utilizando apenas dois eletrodos.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"assets/files/TCC_Gabriel_Manoel.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbrib-file mbr-iconfont mbr-iconfont-btn\"></span>Mais infos</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "DIV": {
+              "font-size": "24px"
+            },
+            "H3": {
+              "font-size": "24px",
+              "text-align": "left",
+              "color": "#00a885"
+            },
+            "P": {
+              "text-align": "left",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "18px"
+            },
+            ".btn": {
+              "font-size": "14px"
+            }
+          },
+          "_anchor": "msg-box5-p"
         },
         {
           "_inherit": "msg-box5",
@@ -740,7 +817,7 @@
             }
           },
           "title": "Projeto AtlasPower<br>",
-          "text": "<p>Projeto de gerenciamento de baterias proposto no sinapse da inovação 2017.&nbsp;</p>",
+          "text": "<p>Projeto de gerenciamento de baterias proposto no <a href=\"http://sc6.sinapsedainovacao.com.br/\" target=\"_blank\">sinapse da inovação</a> 2017.&nbsp;</p>",
           "_tags": [
             "Theme"
           ],
